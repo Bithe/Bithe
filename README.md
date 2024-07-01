@@ -5,6 +5,8 @@
 [![Linkedin: farzana-hossain]](https://www.linkedin.com/in/farzana-hossain-769518269/)
 [![GitHub Farzana]](https://github.com/Bithe)
 
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*WqMpsn9c8JsbbIxIRr50ug.gif" alt="Mokkapps GitHub README header image">
+
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
