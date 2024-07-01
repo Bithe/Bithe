@@ -1,9 +1,5 @@
+<h2> Hi, I'm Farzana Hossain! Web Developer :computer:<br></h2>
 <p>Welcome to my page! </br> I'm from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Bangladesh</b>, currently living in <b>Finland</b>. </p> 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Farzana+Hossain...;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
 
 🔗 &nbsp;**Connect with me**
 [![Linkedin: farzana-hossain]](https://www.linkedin.com/in/farzana-hossain-769518269/)
