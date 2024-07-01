@@ -3,8 +3,7 @@
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*WqMpsn9c8JsbbIxIRr50ug.gif" alt="Mokkapps GitHub README header image">
 
 
- <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+
 
 
 [![Linkedin: farzana-hossain]](https://www.linkedin.com/in/farzana-hossain-769518269/)
