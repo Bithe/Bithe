@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 
-[![Linkedin: farzana-hossain](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/farzana-hossain-769518269/)](https://www.linkedin.com/in/farzana-hossain-769518269/)
+[![Linkedin: farzana-hossain](https://img.shields.io/badge/-farzana-hossain-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/farzana-hossain-769518269/)](https://www.linkedin.com/in/farzana-hossain-769518269/)
 [![GitHub Thaiane](https://github.com/Bithe)]([https://github.com/Thaiane](https://github.com/Bithe))
 
 
