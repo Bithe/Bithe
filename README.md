@@ -46,21 +46,22 @@ const bithe = {
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
 
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
-<p align=center>
+<p align="center">
+
+  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
+=  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="images/css.svg"></code>
+
+  <code><img title="Git" height="25" src="images/git-original.svg"></code>
+
+  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
+
+  <code><img title="GitHub" height="25" src="images/github.svg"></code>
+  <code><img title="npm" height="25" src="images/npm.svg"></code>
  
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zumrudu-anka&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-    </a>
-  </div>
-  <br>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zumrudu-anka&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
-
 <hr>
 
 
