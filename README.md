@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 
-[![Linkedin: thaianebraga](https://www.linkedin.com/in/farzana-hossain-769518269/)](https://www.linkedin.com/in/farzana-hossain-769518269/)
+[![Linkedin: farzana-hossain](https://www.linkedin.com/in/farzana-hossain-769518269/)](https://www.linkedin.com/in/farzana-hossain-769518269/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 
 
