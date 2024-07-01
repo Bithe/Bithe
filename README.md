@@ -9,7 +9,6 @@
 🔗 &nbsp;**Connect with me**
 [![Linkedin: farzana-hossain]](https://www.linkedin.com/in/farzana-hossain-769518269/)
 [![GitHub Farzana]](https://github.com/Bithe)
-<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 
 
 
