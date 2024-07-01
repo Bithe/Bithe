@@ -1,4 +1,4 @@
-<h2> Hi, I'm Farzana Hossain! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Farzana Hossain! Web Developer <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p>Welcome to my page! </br> I'm from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Bangladesh</b>, currently living in <b>Finland</b>. </p> 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
