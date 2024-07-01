@@ -1,5 +1,10 @@
 <h2> Hi, I'm Farzana Hossain! Web Developer :computer:<br></h2>
 <p>Welcome to my page! </br> I'm from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Bangladesh</b>, currently living in <b>Finland</b>. </p> 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osman+DURDAĞ....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 🔗 &nbsp;**Connect with me**
 [![Linkedin: farzana-hossain]](https://www.linkedin.com/in/farzana-hossain-769518269/)
@@ -43,10 +48,7 @@ const bithe = {
 - :trophy: Grand Finalist of "Smart India Hackathon 2019" - Software Edition
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/skills.svg">
-  <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/skills"> -->
-</p>
+
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
