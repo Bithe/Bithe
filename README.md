@@ -3,8 +3,7 @@
 
 
 [![Linkedin: farzana-hossain]](https://www.linkedin.com/in/farzana-hossain-769518269/)
-[![GitHub Farzana-Hossain]]([https://github.com/Thaiane](https://github.com/Bithe))
-[![GitHub Thaiane]](https://github.com/Bithe)
+[![GitHub Farzana]](https://github.com/Bithe)
 
 
 
