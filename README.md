@@ -1,8 +1,9 @@
-<h2> Hi, I'm Farzana Hossain! Web Developer :computer:<br>
-  <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"></h2>
+<h2> Hi, I'm Farzana Hossain! Web Developer :computer:<br></h2>
 <p>Welcome to my page! </br> I'm from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Bangladesh</b>, currently living in <b>Finland</b>. </p> 
+
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+ <br>
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
 
 [![Linkedin: farzana-hossain]](https://www.linkedin.com/in/farzana-hossain-769518269/)
