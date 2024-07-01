@@ -1,6 +1,6 @@
 <h2> Hi, I'm Farzana Hossain! Web Developer :computer:<br></h2>
 <p>Welcome to my page! </br> I'm from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Bangladesh</b>, currently living in <b>Finland</b>. </p> 
-<img src="https://github.com/Mokkapps/mokkapps/blob/master/header.png" alt="Mokkapps GitHub README header image">
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*WqMpsn9c8JsbbIxIRr50ug.gif" alt="Mokkapps GitHub README header image">
 
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
