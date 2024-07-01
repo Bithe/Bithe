@@ -8,6 +8,10 @@
 [![Linkedin: farzana-hossain]](https://www.linkedin.com/in/farzana-hossain-769518269/)
 [![GitHub Farzana]](https://github.com/Bithe)
 
+[![Linkedin: farzana-hossain]](https://www.linkedin.com/in/farzana-hossain-769518269/)
+[![GitHub Farzana]](https://github.com/Bithe)
+
+
 
 
 
