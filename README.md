@@ -62,7 +62,6 @@ const bithe = {
 ### 📊 GitHub Stats:
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Bithe&theme=default&date_format=j%20M%5B%20Y%5D)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bithe&theme=default)
 
 
 ![GitHub Commit Count](https://github-readme-stats.vercel.app/api?username=Bithe&show_icons=true&count_private=true&theme=default)
