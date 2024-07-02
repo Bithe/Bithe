@@ -1,3 +1,5 @@
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*WqMpsn9c8JsbbIxIRr50ug.gif" alt="Mokkapps GitHub README header image">
+
 <h2> Hi, I'm Farzana Hossain! Web Developer :computer:<br></h2>
 <p>Welcome to my page! </br> I'm from <img src="https://i.pinimg.com/originals/94/0e/8e/940e8e796893938ca9d483219e57d492.jpg" width="13"/> <b>Bangladesh</b>, currently living in <b>Finland</b>. </p> 
 
@@ -5,7 +7,6 @@
 [![Linkedin: farzana-hossain]](https://www.linkedin.com/in/farzana-hossain-769518269/)
 [![GitHub Farzana]](https://github.com/Bithe)
 
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*WqMpsn9c8JsbbIxIRr50ug.gif" alt="Mokkapps GitHub README header image">
 
 
 
