@@ -15,8 +15,8 @@
 ```javascript
 const bithe = {
   pronouns: "she" | "her",
-  code: [Javascript, MongoDB, Express, HTML, CSS, Tailwind],
-  tools: [React],
+  code: ["JavaScript", "MongoDB", "Express", "HTML", "CSS", "Tailwind CSS"],
+  tools: ["React", "Node.js", "Firebase", "Git", "VS Code", "npm/yarn"]
   
 
 ```
