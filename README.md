@@ -61,22 +61,14 @@ const bithe = {
   <code><img title="Mongodb" height="25" src="images/mongodb.png"></code>
   <code><img title="Express" height="25" src="images/express.jpg"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-
-
- 
 </p>
 <hr>
 
 ### 📊 GitHub Stats:
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Bithe&theme=default&date_format=j%20M%5B%20Y%5D)
-
-
 ![GitHub Commit Count](https://github-readme-stats.vercel.app/api?username=Bithe&show_icons=true&count_private=true&theme=default)
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bithe&layout=compact&langs_count=8"/>
-
-
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
