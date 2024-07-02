@@ -56,6 +56,7 @@ const bithe = {
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="npm" height="25" src="images/npm.svg"></code>
   <code><img title="React" height="25" src="images/react-original.svg"></code>
+  <code><img title="Mongodb" height="25" src="images/mongodb.png"></code>
 
  
 </p>
