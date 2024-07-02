@@ -59,6 +59,7 @@ const bithe = {
   <code><img title="React" height="25" src="images/react-original.svg"></code>
   <code><img title="Mongodb" height="25" src="images/mongodb.png"></code>
   <code><img title="Express" height="25" src="images/express.jpg"></code>
+  <code><img title="Firebase" height="25" src="images/firebase.jpg"></code>
 
  
 </p>
