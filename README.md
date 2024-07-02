@@ -34,7 +34,6 @@ const bithe = {
   <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Firebase" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 </p>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
@@ -61,7 +60,6 @@ const bithe = {
   <code><img title="React" height="25" src="images/react-original.svg"></code>
   <code><img title="Mongodb" height="25" src="images/mongodb.png"></code>
   <code><img title="Express" height="25" src="images/express.jpg"></code>
-  <code><img title="Firebase" height="25" src="images/firebase.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 
 
