@@ -74,7 +74,7 @@ const bithe = {
 
 ![GitHub Commit Count](https://github-readme-stats.vercel.app/api?username=Bithe&show_icons=true&count_private=true&theme=default)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridermansb&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bithe&layout=compact&langs_count=8"/>
 
 
 
